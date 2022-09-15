@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+body {
+    font-family: Roboto;
+}
+.title {
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+    padding: 20px;
+    background-color: rgb(28, 136, 179) ;
+}
+.Information {
+    width: 400px;
+    height: 40px;
+    margin-top: 20px ;
+    margin-left: 20px;
+    border: 2px solid rgb(7, 7, 7);
+    border-radius: 14px;
+    
+}
+#Message {
+    width: 400px;
+    height: 150px;
+    margin-top: 20px ;
+    margin-left: 40px;
+    border: 2px solid rgb(7,7,7);
+    border-radius: 14px;
+}
+.Button{
+    border-radius: 20px;
+    color: #fff;
+    margin-top: 18px;
+    padding: 10px;
+    background-color: #e69112;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+}
+header{
+    padding: 40px;
+}
+footer{
+    padding: 40px;
+}
+h1{
+    color: rgb(13, 107, 230);
+}
+li {
+    display: inline-block;
+    padding: 30px;
+}
+ul {
+    text-align:center ;
+    font-weight: bold;
+
+}
